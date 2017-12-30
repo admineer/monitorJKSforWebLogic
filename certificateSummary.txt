@@ -1,0 +1,8 @@
+[OK]         ===> certgenca <===  Certificate 'certgenca' expires in 'Tue Mar 22 16:12:27 EDT 2022'! *** 1543 day(s) remaining ***
+
+[WARNING]    ===> volthread.com <===  Certificate 'volthread.com' expires in 'Thu May 03 12:10:01 EDT 2018'! *** 124 day(s) remaining ***
+
+[OK]         ===> wlscertgencab <===  Certificate 'wlscertgencab' expires in 'Tue Oct 25 11:54:45 EDT 2022'! *** 1760 day(s) remaining ***
+
+[OK]         ===> wlscertgenca <===  Certificate 'wlscertgenca' expires in 'Wed Dec 01 22:07:51 EST 2032'! *** 5450 day(s) remaining ***
+
