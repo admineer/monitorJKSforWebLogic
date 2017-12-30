@@ -6,7 +6,7 @@ __scriptPath=/home/oracle/scripts/monitorJKS
 __keytool="/u01/weblogic/jdk8/jdk1.8.0_112/bin/keytool"
 __keystore="/u01/weblogic/Middleware12212/wlserver/server/lib/DemoTrust.jks"
 __keystorepass="DemoTrustKeyStorePassPhrase"
-__thresholdDay="135"
+__thresholdDay="7"
 __mailTo="person1@company.comx person2@company.comx"
 
 #Static Variables
