@@ -50,6 +50,20 @@ Go to http://community.wlsdm.com
 
 ---
 
-![alt text](http://url/to/img.png)
+![WLSDM for WebLogic: Failed Scheduler CRON Jobs List](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_scheduler_monitor_jks_failed_weblogic_cron_job.png
 
-![alt text](http://url/to/img.png)
+**WLSDM for WebLogic: Failed Scheduler CRON Jobs List**
+
+---
+
+![WLSDM Cron Job Details: View Warning for Certificate Expiry Dates](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_scheduler_monitor_JKS_certificate_in_a_weblogic_domain_failed_details.png)
+
+**WLSDM Cron Job Details: View Warning for Certificate Expiry Dates**
+
+---
+
+![JKS Certificate Expiry Date Warning: WLSDM for WebLogic Scheduler HTML Email Notification](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_scheduler_weblogic_cron_job_detail_email_notification_html_email_warning_weblogic_monitoring.png)
+
+**JKS Certificate Expiry Date Warning: WLSDM for WebLogic Scheduler HTML Email Notification**
+
+---
