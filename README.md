@@ -21,19 +21,34 @@ Go to http://community.wlsdm.com
 # Screen Captures
 
 ![WLSDM Console Menu (Portlet in WebLogic Console)](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_weblogic_smart_dashboard_and_monitoring_wlsdm_menu.png)
+
 **WLSDM Console Menu (Portlet in WebLogic Console)**
 
+---
+
 ![WLSDM: New User Defined Action / Script](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_weblogic_monitoring_JKS_certificate_expire_expiry.png)
+
 **WLSDM: New User Defined Action / Script**
 
+---
+
 ![WLSDM: New Scheduled Job / Downtime](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_weblogic_scheduling_weblogic_jobs_scripts_monitoring_jks_certificates_expiry.png)
+
 **WLSDM: New Scheduled Job / Downtime**
 
+---
+
 ![WLSDM for WebLogic: Scheduled Job Execution History](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_scheduler_monitor_jks_successfull_cron_job_history.png)
+
 **WLSDM for WebLogic: Scheduled Job Execution History**
 
+---
+
 ![WLSDM CRON Job Detail Modal Window: Monitoring JKS certificate expiry date](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_scheduler_monitor_JKS_certificate_in_a_weblogic_domain.png)
+
 **WLSDM CRON Job Detail Modal Window: Monitoring JKS certificate expiry date**
+
+---
 
 ![alt text](http://url/to/img.png)
 
