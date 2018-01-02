@@ -17,3 +17,19 @@ For issues and other platforms create an issue!
 # WLSDM Support
 
 Go to http://community.wlsdm.com
+
+# Screen Captures
+
+![WLSDM Console Menu (Portlet in WebLogic Console)](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_weblogic_smart_dashboard_and_monitoring_wlsdm_menu.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
