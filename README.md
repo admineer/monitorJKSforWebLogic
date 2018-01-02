@@ -4,7 +4,7 @@ Monitoring expiry dates of JKS (Java Keystore File) certificate entries in a Ora
 
 # Script Information
 
-This script is written in "Linux"
+This script is written for "Linux" environment.
 
 **Operating System:** Oracle Linux Server release 7.2
 
