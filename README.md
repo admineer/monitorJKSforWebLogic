@@ -50,7 +50,7 @@ Go to http://community.wlsdm.com
 
 ---
 
-![WLSDM for WebLogic: Failed Scheduler CRON Jobs List](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_scheduler_monitor_jks_failed_weblogic_cron_job.png
+![WLSDM for WebLogic: Failed Scheduler CRON Jobs List](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_scheduler_monitor_jks_failed_weblogic_cron_job.png)
 
 **WLSDM for WebLogic: Failed Scheduler CRON Jobs List**
 
