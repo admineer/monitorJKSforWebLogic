@@ -20,6 +20,8 @@ Go to http://community.wlsdm.com
 
 # Screen Captures
 
+Read the entire documentation and tutorial blog post here http://www.admineer.com/blog/monitoring-expire-expiry-dates-of-a-java-keystore-jks-file-shell-script-scheduling-alerting/
+
 ![WLSDM Console Menu (Portlet in WebLogic Console)](http://www.admineer.com/wp-content/uploads/2017/12/wlsdm_weblogic_smart_dashboard_and_monitoring_wlsdm_menu.png)
 
 **WLSDM Console Menu (Portlet in WebLogic Console)**
